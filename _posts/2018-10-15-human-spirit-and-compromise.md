@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-10-15 14:49:38
 ---
-“The human spirit will not invest itself in a compromise.” ― Robert Fritz, The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life.
+“The human spirit will not invest itself in a compromise.” ― Robert Fritz, The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life
